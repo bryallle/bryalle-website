@@ -1,80 +1,66 @@
-body {
-  background-color: black;
+<html lang="en">
 
-  color: white;
-  font-family: "Open Sans", sans-serif;
-  letter-spacing: 2px;
-}
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
 
-.profile-picture {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+<body>
 
-  margin-top: 10%;
-  height: auto;
-  max-width: 100px;
+    <!-- 2. Profile Name or User Account  -->
 
-  border-radius: 50%;
-}
+    <div class="profile-name">BRY'ALLE</div>
 
-.profile-name {
-  text-align: center;
+    <!-- 3. Links  -->
+    
+    
+    <a href="https://soundcloud.com/bryalle" class="links">
+        Soundcloud
+    </a>
 
-  padding: 30px;
-  font-size: 28px;
-}
 
-.links {
-  text-align: center;
-  margin-top: 20px;
-  border: 1px solid darkred;
-  border-width: 2px;
-  padding: 20px;
+    <a href="https://open.spotify.com/artist/4hmZmPY6uv6ztF8DEQArsg?si=NQpd8_nYQRmk7zLCrwJYZQ" class="links">
+        Spotify
+    </a>
 
-  width: 290px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+    <a href="https://music.apple.com/us/artist/bryalle/1604165383" class="links">
+        Apple Music
+    </a>
 
-  border-radius: 30px;
+    <a href="https://www.youtube.com/bryalle" class="links">
+        Youtube
+    </a>
 
-  font-size: 18px;
-}
+     <!-- 4. extral  -->
 
-a {
-  text-decoration: none;
+     <a href="https://www.instagram.com/bryallee" class="extral">
+        Instagram
+    </a>
 
-  color: white;
-  transition: color 1s;
-}
+</body>
 
-a:hover {
-  color: black;
-  background-color: white;
-}
+</html>
 
-.extral {
- border: 10px solid rgb(39, 31, 31);
-font: size 15px;
-text-align: center;
-margin-top: 20px;
-border-width: 0px;
-padding: 20px;
+   <!-- 6. background  -->
+   <!DOCTYPE html>
+   <html>
+   <head>
+   <style>
+   body {
+     background-image: url('file:///C:/Users/bryal/Downloads/Screenshot%202023-02-08%20155630.png');
+     background-repeat: no-repeat;
+     background-attachment: fixed; 
+     background-size: 100% 100%;
+   }
+   </style>
+   </head>
+   <body>
 
-width: 150px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-
-border-radius: 5px;
-
-font-size: 18px;
-}
-
-.extra {
-  text-align: center;
-
-  padding: 30px;
-  font-size: 15px;
-}
+   </body>
+   </html>
+   
+   <!-- 7. music  -->
+   <iframe width="0" height="0" src="https://www.youtuberepeater.com/watch?v=yymXkhCAo-k#gsc.tab=0" frameborder="0" allowfullscreen></iframe>
